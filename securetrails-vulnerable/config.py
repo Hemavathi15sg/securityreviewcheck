@@ -9,7 +9,7 @@ class Config:
 
 class DevelopmentConfig(Config):
     DEBUG = True
-    API_KEY = 'sk_test_12345'
+    API_KEY = 'figd_UyQoi323UuUeFBUNq6jWsGmlkjwZePH2s0NqyFLU'
 
 
 class ProductionConfig(Config):
